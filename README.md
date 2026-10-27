@@ -5,8 +5,7 @@ M1 Machine Learning and Data Mining (MLDM) project, Université Jean Monnet Sain
 
 This project compares three YOLO object detectors (**YOLOv5s, YOLOv8n, YOLOv8s**) on the RDD2022 road damage dataset under identical training settings. It also tests **cross-country generalization** by training on Japanese images only and evaluating on six countries. The best model is deployed in a **Streamlit** app.
 
-**Documents:** [Project report (PDF)](docs/Project_Report.pdf) · [Defence slides (PDF)](docs/Defence_Slides.pdf) · [Project proposal](docs/Personal_Project_Proposal.docx)
-
+**Documents:** [Project report (PDF)](docs/Project_Report.pdf) · [Defence slides (PDF)](docs/Defence_Slides.pdf) 
 ## Main results (RDD2022 test set)
 
 | Model | Params (M) | GFLOPs | Precision | Recall | mAP@0.5 | mAP@0.5:0.95 | FPS |
