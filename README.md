@@ -57,4 +57,4 @@ Image size 640×640, batch size 16, 50 epochs, early-stopping patience 15, seed 
 
 ## License
 
-No license has been chosen yet. Add one (for example MIT for the code) before making the repository public. The dataset keeps its own terms.
+No license has been chosen yet. The dataset keeps its own terms.
